@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'laravel/laravel',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-08-Integração_do_template_Parte_I',
+        'version' => 'dev-08-Integração_do_template_Parte_I',
+        'reference' => 'ad91502ac73341e72da8f9199b2846466b9f541c',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -374,9 +374,9 @@
             'dev_requirement' => false,
         ),
         'laravel/laravel' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-08-Integração_do_template_Parte_I',
+            'version' => 'dev-08-Integração_do_template_Parte_I',
+            'reference' => 'ad91502ac73341e72da8f9199b2846466b9f541c',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
